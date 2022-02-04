@@ -1,0 +1,22 @@
+
+#but{
+    background-color: grey;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+    border:2px solid black ;
+    margin-bottom: 20px;
+}
+body{
+    text-align: center;
+}
+.container{
+    max-height: 200px;
+    margin: 0;
+}
+.square{
+    width: 20px ;
+    height: 20px;
+    border: 1px solid grey;
+    margin: 0px;
+}
